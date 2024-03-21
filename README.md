@@ -1,4 +1,4 @@
-Packages for running mocap on Ubuntu 18 with Ros Melodic. The two packages are natnet_ros_cpp (https://github.com/L2S-lab/natnet_ros_cpp) for publishing poses and optitrack for subscribing to poses.
+Packages for running mocap on Ubuntu 18 with Ros Melodic. The two packages are ```natnet_ros_cpp``` (https://github.com/L2S-lab/natnet_ros_cpp) for publishing poses and ```optitrack``` for subscribing to poses. The ```optitrack``` package should never need to be actually launched to access pose data - just the publisher needs to be launched. 
 
 Installation instructions:
 1. Install Ros Melodic
