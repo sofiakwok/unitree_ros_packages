@@ -1,0 +1,10 @@
+.vscode/
+build/
+devel/
+logs/
+.catkin_tools/
+deps/NatNetSDK/*
+!deps/NatNetSDK/.gitkeep
+whiteboard/*
+config/*
+!config/initiate.yaml
