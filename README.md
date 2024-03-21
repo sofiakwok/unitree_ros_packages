@@ -5,7 +5,7 @@ Installation instructions:
 2. Source /opt/ros/melodic/setup.bash
 3. Install natnet_ros_cpp dependencies: ```sudo apt install -y ros-$ROS_DISTRO-tf2* wget```
 4. Clone this repository
-5. ```cd catkin_ws```
+5. ```cd unitree_ros_packages```
 6. Use catkin build in root directory (catkin_ws)
 7. Source /devel/setup.bash
 8. To run mocap publisher: roslaunch natnet_ros_cpp natnet_ros.launch
