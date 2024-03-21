@@ -8,5 +8,5 @@ Installation instructions:
 5. ```cd unitree_ros_packages```
 6. Use catkin build in root directory
 7. Source /devel/setup.bash
-8. To run mocap publisher: roslaunch natnet_ros_cpp natnet_ros.launch
-9. To run mocap subscriber: rosrun optitrack listener (should not need to run this. Should be handled in unitree code.)
+8. To run mocap publisher: ```roslaunch natnet_ros_cpp natnet_ros.launch```
+9. To run mocap subscriber: ```rosrun optitrack listener``` (should not need to run this. Should be handled in unitree code.)
