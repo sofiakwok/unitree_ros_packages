@@ -11,4 +11,4 @@ Installation instructions:
 9. To run mocap publisher: ```roslaunch natnet_ros_cpp natnet_ros.launch```
 10. To run mocap subscriber: ```rosrun optitrack listener```
 
-Note: For people using the MuJoCo-control-estimation repository, the ```optitrack``` package should never need to be actually launched to access pose data - just the publisher needs to be launched. 
+Note: For people using the MuJoCo-control-estimation repository, the ```optitrack``` package should never need to be actually launched to access pose data - just the publisher needs to be launched. The root directory is called ```catkin_ws``` on the downstairs desktop.
